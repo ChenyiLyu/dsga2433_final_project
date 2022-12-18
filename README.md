@@ -1,5 +1,21 @@
 # dsga2433_final_project - Insurance Company Website
 
+
+## Preview
+
+### Homepage
+![homepage snap](https://github.com/ChenyiLyu/dsga2433_final_project/blob/master/previews/homepage.png)
+### Browse products and price
+![homepage snap](https://github.com/ChenyiLyu/dsga2433_final_project/blob/master/previews/pricing.png)
+![homepage snap](https://github.com/ChenyiLyu/dsga2433_final_project/blob/master/previews/services.png)
+
+### Quote
+![homepage snap](https://github.com/ChenyiLyu/dsga2433_final_project/blob/master/previews/quote1.png)
+![homepage snap](https://github.com/ChenyiLyu/dsga2433_final_project/blob/master/previews/quote2.png)
+
+
+## Steps to run this web application:
+
 1. (Python >= 3.7 is required) Open Terminal and run:
 ```
 python -m pip install -r requirements.txt
